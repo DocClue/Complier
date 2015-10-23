@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>780E57FA-8020-416B-A90E-D5CBC8D02015</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Complier</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>59C8D851C29B293C47878F4706A989688F4B2EB8</key>
+		<string>https://github.com/DocClue/Complier.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Complier.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>59C8D851C29B293C47878F4706A989688F4B2EB8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DocClue/Complier.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>59C8D851C29B293C47878F4706A989688F4B2EB8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>59C8D851C29B293C47878F4706A989688F4B2EB8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Complier</string>
+		</dict>
+	</array>
+</dict>
+</plist>
