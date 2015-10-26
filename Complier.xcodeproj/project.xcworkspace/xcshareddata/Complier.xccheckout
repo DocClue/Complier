@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>780E57FA-8020-416B-A90E-D5CBC8D02015</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Complier</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>59C8D851C29B293C47878F4706A989688F4B2EB8</key>
 		<string>https://github.com/DocClue/Complier.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Complier.xcodeproj</string>
+	<string>Complier.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>59C8D851C29B293C47878F4706A989688F4B2EB8</key>
